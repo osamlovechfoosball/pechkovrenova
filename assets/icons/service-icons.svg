@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="laminate" viewBox="0 0 64 64">
+    <g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m9 42 19-25h12L21 42H9Z"/>
+      <path d="m24 47 19-25h12L36 47H24Z"/>
+      <path d="m8 48 8-10h8l-8 10H8Z"/>
+      <path d="m30 17 4 5M45 22l4 5M13 37h7M28 42h7"/>
+    </g>
+  </symbol>
+
+  <symbol id="pvc-panels" viewBox="0 0 64 64">
+    <g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M11 14h13v36H11zM27 10h13v40H27zM43 16h10v34H43z"/>
+      <path d="M16 18v28M32 14v32M48 20v26"/>
+      <path d="m24 20 3-3M40 22l3-3"/>
+    </g>
+  </symbol>
+
+  <symbol id="cladding" viewBox="0 0 64 64">
+    <g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m9 18 26-8 20 8v36l-20-4-26 4V18Z"/>
+      <path d="M35 10v40M9 27l26-6 20 5M9 36l26-4 20 3M9 45l26-2 20 1"/>
+      <path d="m18 25 4-2M43 31l4 1M25 40l4-1"/>
+    </g>
+  </symbol>
+
+  <symbol id="plasterboard" viewBox="0 0 64 64">
+    <g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m10 29 25-15 19 11-25 15-19-11Z"/>
+      <path d="m10 29v9l19 11 25-15v-9"/>
+      <path d="m10 34 19 11 25-15"/>
+      <path d="m36 14 2 8 8 4"/>
+      <path d="M29 40v9"/>
+    </g>
+  </symbol>
+
+  <symbol id="suspended-ceiling" viewBox="0 0 64 64">
+    <g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M14 9v15M50 9v15M24 9v11M40 9v11"/>
+      <path d="m8 28 24-10 24 10-24 15L8 28Z"/>
+      <path d="m20 23 24 14M44 23 20 37M32 18v25"/>
+      <circle cx="32" cy="30" r="3.5"/>
+      <path d="M26 50h12M29 55h6"/>
+    </g>
+  </symbol>
+
+  <symbol id="electrical" viewBox="0 0 64 64">
+    <g fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M31 7 18 32h12l-3 22 20-30H34l5-17h-8Z"/>
+      <path d="M45 39h7a6 6 0 0 1 0 12h-6"/>
+      <path d="M54 35v5M59 37v5"/>
+    </g>
+  </symbol>
+
+  <symbol id="indoor-lighting" viewBox="0 0 64 64">
+    <g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M21 31a11 11 0 1 1 22 0c0 6-5 8-6 14H27c-1-6-6-8-6-14Z"/>
+      <path d="M27 50h10M29 55h6"/>
+      <path d="M32 6v7M13 14l5 5M6 32h7M51 32h7M46 19l5-5"/>
+    </g>
+  </symbol>
+
+  <symbol id="outdoor-lighting" viewBox="0 0 64 64">
+    <g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m7 25 20-14 20 14M13 22v34h38V25"/>
+      <path d="M36 28h8M40 28v5"/>
+      <path d="m34 33 6-4 6 4-2 11h-8l-2-11Z"/>
+      <path d="M40 44v6M34 47l-3 4M46 47l3 4"/>
+      <path d="M9 56h46"/>
+    </g>
+  </symbol>
+
+  <symbol id="pvc-door" viewBox="0 0 64 64">
+    <g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M11 8h40v48H11z"/>
+      <path d="m19 15 24-5v42l-24-5V15Z"/>
+      <path d="M19 31h24M51 8l4 4v44h-4"/>
+      <circle cx="38" cy="33" r="1.7" fill="currentColor" stroke="none"/>
+      <path d="M15 56h40"/>
+    </g>
+  </symbol>
+
+  <symbol id="windows" viewBox="0 0 64 64">
+    <g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M8 11h48v42H8z"/>
+      <path d="M32 11v42M8 32h48"/>
+      <path d="m32 11 17 8v26l-17 8"/>
+      <path d="M39 31v6"/>
+      <path d="M12 15h16v13H12z"/>
+    </g>
+  </symbol>
+
+  <symbol id="furniture" viewBox="0 0 64 64">
+    <g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M8 15h29v37H8zM22.5 15v37"/>
+      <path d="M13 22h5M27 22h5M13 46h5M27 46h5"/>
+      <path d="M12 52v4M33 52v4"/>
+      <path d="M45 12h9v8L43 31"/>
+      <path d="m43 31 4 4M49 25l4 4"/>
+      <path d="M44 45h12M47 41v8M53 41v8"/>
+    </g>
+  </symbol>
+</svg>

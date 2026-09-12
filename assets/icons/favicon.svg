@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180">
+  <title>Печков Ренова</title>
+  <rect width="180" height="180" rx="30" fill="#111111"/>
+  <g transform="translate(23 18)">
+    <path d="M110 18h9v42h-9z" fill="#a9aaa7"/>
+    <path d="M7 69 65 11" fill="none" stroke="#fffdf8" stroke-width="10" stroke-linecap="round"/>
+    <path d="M8 65 65 7 126 65" fill="none" stroke="#efa900" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M29 80h69M29 107h57M47 132h39" fill="none" stroke="#fffdf8" stroke-width="13" stroke-linecap="round"/>
+  </g>
+</svg>
